@@ -1,0 +1,1 @@
+from MaxRewardsGame.envs.MaxRewardsGame_env import MAXREWARDSGAME

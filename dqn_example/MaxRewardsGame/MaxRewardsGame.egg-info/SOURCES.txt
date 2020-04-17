@@ -1,0 +1,7 @@
+README.md
+setup.py
+MaxRewardsGame.egg-info/PKG-INFO
+MaxRewardsGame.egg-info/SOURCES.txt
+MaxRewardsGame.egg-info/dependency_links.txt
+MaxRewardsGame.egg-info/requires.txt
+MaxRewardsGame.egg-info/top_level.txt

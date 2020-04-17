@@ -1,0 +1,2 @@
+model_checkpoint_path: "MRG.ckpt"
+all_model_checkpoint_paths: "MRG.ckpt"
